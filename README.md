@@ -1,2 +1,2 @@
 # Kyphers-Unity-Shaders
-A collection of shaders I have created as part of avatars or worlds
+A collection of shaders I have created in Unity as part of avatars or worlds for VRChat
